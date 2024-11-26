@@ -1,0 +1,8 @@
+android steps:
+open android studio
+click on new project
+file name as weeknumber
+paste and edit files as per names in GitHub
+.java files in app>src>main>java files
+xml files in app>src>main>res>layout
+
